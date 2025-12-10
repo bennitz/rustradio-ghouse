@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1,G-House Radio – Non-stop Pressure
+
+#EXTINF:198,Dance with the Devil
+https://raw.githubusercontent.com/bennitz/rustradio-ghouse/main/Dance%20with%20the%20Devil.mp3
+
+#EXTINF:212,Drop It
+https://raw.githubusercontent.com/bennitz/rustradio-ghouse/main/Drop%20It.mp3
+
+#EXTINF:185,Mona Lisa
+https://raw.githubusercontent.com/bennitz/rustradio-ghouse/main/Mona%20Lisa.mp3
+
+#EXTINF:204,Venom
+https://raw.githubusercontent.com/bennitz/rustradio-ghouse/main/Venom.mp3
+
+# Loop forever
+#EXTINF:-1,→ Restart playlist
+https://raw.githubusercontent.com/bennitz/rustradio-ghouse/main/playlist.m3u
